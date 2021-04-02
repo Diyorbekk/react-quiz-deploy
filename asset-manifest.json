@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/react-quiz-deploy/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/react-quiz-deploy/static/js/main.51f3522f.chunk.js",
-    "main.js.map": "/react-quiz-deploy/static/js/main.51f3522f.chunk.js.map",
-    "runtime-main.js": "/react-quiz-deploy/static/js/runtime-main.cb4af4ac.js",
-    "runtime-main.js.map": "/react-quiz-deploy/static/js/runtime-main.cb4af4ac.js.map",
-    "static/js/2.5ea3a04c.chunk.js": "/react-quiz-deploy/static/js/2.5ea3a04c.chunk.js",
-    "static/js/2.5ea3a04c.chunk.js.map": "/react-quiz-deploy/static/js/2.5ea3a04c.chunk.js.map",
-    "static/js/3.c01a8235.chunk.js": "/react-quiz-deploy/static/js/3.c01a8235.chunk.js",
-    "static/js/3.c01a8235.chunk.js.map": "/react-quiz-deploy/static/js/3.c01a8235.chunk.js.map",
+    "main.css": "/react-quiz-deploy/static/css/main.495fd8dc.chunk.css",
+    "main.js": "/react-quiz-deploy/static/js/main.d02e44bd.chunk.js",
+    "main.js.map": "/react-quiz-deploy/static/js/main.d02e44bd.chunk.js.map",
+    "runtime-main.js": "/react-quiz-deploy/static/js/runtime-main.bdf1040a.js",
+    "runtime-main.js.map": "/react-quiz-deploy/static/js/runtime-main.bdf1040a.js.map",
+    "static/js/2.06b68db9.chunk.js": "/react-quiz-deploy/static/js/2.06b68db9.chunk.js",
+    "static/js/2.06b68db9.chunk.js.map": "/react-quiz-deploy/static/js/2.06b68db9.chunk.js.map",
+    "static/js/3.8913de01.chunk.js": "/react-quiz-deploy/static/js/3.8913de01.chunk.js",
+    "static/js/3.8913de01.chunk.js.map": "/react-quiz-deploy/static/js/3.8913de01.chunk.js.map",
     "index.html": "/react-quiz-deploy/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/react-quiz-deploy/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.5ea3a04c.chunk.js.LICENSE.txt": "/react-quiz-deploy/static/js/2.5ea3a04c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-quiz-deploy/static/media/logo.6ce24c58.svg"
+    "static/css/main.495fd8dc.chunk.css.map": "/react-quiz-deploy/static/css/main.495fd8dc.chunk.css.map",
+    "static/js/2.06b68db9.chunk.js.LICENSE.txt": "/react-quiz-deploy/static/js/2.06b68db9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb4af4ac.js",
-    "static/js/2.5ea3a04c.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.51f3522f.chunk.js"
+    "static/js/runtime-main.bdf1040a.js",
+    "static/js/2.06b68db9.chunk.js",
+    "static/css/main.495fd8dc.chunk.css",
+    "static/js/main.d02e44bd.chunk.js"
   ]
 }
