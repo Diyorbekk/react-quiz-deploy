@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-deploy-quiz/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-deploy-quiz/static/js/main.51f3522f.chunk.js",
+    "main.js.map": "/react-deploy-quiz/static/js/main.51f3522f.chunk.js.map",
+    "runtime-main.js": "/react-deploy-quiz/static/js/runtime-main.d7b4822d.js",
+    "runtime-main.js.map": "/react-deploy-quiz/static/js/runtime-main.d7b4822d.js.map",
+    "static/js/2.5ea3a04c.chunk.js": "/react-deploy-quiz/static/js/2.5ea3a04c.chunk.js",
+    "static/js/2.5ea3a04c.chunk.js.map": "/react-deploy-quiz/static/js/2.5ea3a04c.chunk.js.map",
+    "static/js/3.c01a8235.chunk.js": "/react-deploy-quiz/static/js/3.c01a8235.chunk.js",
+    "static/js/3.c01a8235.chunk.js.map": "/react-deploy-quiz/static/js/3.c01a8235.chunk.js.map",
+    "index.html": "/react-deploy-quiz/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-deploy-quiz/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5ea3a04c.chunk.js.LICENSE.txt": "/react-deploy-quiz/static/js/2.5ea3a04c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-deploy-quiz/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7b4822d.js",
+    "static/js/2.5ea3a04c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.51f3522f.chunk.js"
+  ]
+}
